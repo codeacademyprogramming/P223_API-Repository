@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3772c131-c750-4082-aff7-0f1f508ab10b": {
+      "ProjectGuid": "3772c131-c750-4082-aff7-0f1f508ab10b",
+      "DisplayName": "Shop.Api",
+      "ColorIndex": 0
+    },
+    "43d4f54f-5021-428d-8ed8-74939286d80e": {
+      "ProjectGuid": "43d4f54f-5021-428d-8ed8-74939286d80e",
+      "DisplayName": "Shop.Core",
+      "ColorIndex": 1
+    },
+    "fbfd51ee-c7f6-4ab2-9968-0c88bd7290b4": {
+      "ProjectGuid": "fbfd51ee-c7f6-4ab2-9968-0c88bd7290b4",
+      "DisplayName": "Shop.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
